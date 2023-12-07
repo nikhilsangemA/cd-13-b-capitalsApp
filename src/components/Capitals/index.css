@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.app-container {
+  background-color: aqua;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.capitals-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 18px;
+}
